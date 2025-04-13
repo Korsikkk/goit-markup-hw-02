@@ -49,6 +49,7 @@ button {
   color: #404bbf;
 }
 .address-item {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -144,6 +145,7 @@ button {
   color: #2e2f42;
 }
 .portfolio-text {
+  text-transform: capitalize;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
